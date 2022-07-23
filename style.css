@@ -16,11 +16,6 @@ body {
     p {
         text-align: center;
     }
-      .center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-      }
 
       nav a {
         padding-left: 10px;
@@ -33,6 +28,12 @@ body {
         text-align: center;
     
       }
+
+      #clickGameButton{
+        position: absolute;
+        left: 650px;
+        top: 200px;
       
+      }
         
      
