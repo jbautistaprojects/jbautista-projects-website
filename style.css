@@ -2,38 +2,50 @@
 body {
     background-color: black;
     color: aquamarine;
-    }
+}
 
-    h1 {
-        text-align: center;
+h1 {
+  text-align: center;
        
-      }
+}
       
-    h2{
+h2 {
         text-align: center;
-    }
+}
 
-    p {
+p {
         text-align: center;
-    }
+}
 
-      nav a {
-        padding-left: 10px;
-        padding-right: 10px;
-        background-color: black;
-        
-      }
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: black;
+}
       
-      nav {
-        text-align: center;
+nav {
+  text-align: center;
     
-      }
+}
 
-      #clickGameButton{
-        position: absolute;
-        left: 650px;
-        top: 200px;
+#clickGameButton{
+  position: absolute;
+  left: 650px;
+  top: 200px;
       
-      }
+}
         
-     
+.container {
+   position: relative;
+   margin:auto;
+}
+      
+.container img { 
+  width: auto;
+  height: 500px;
+  opacity: 0.7;
+  display: inline-block;
+  margin-right: 10px;
+  
+}
+  
